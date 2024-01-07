@@ -1,4 +1,4 @@
-# AMAZING ANIMATED TESTIMONIAL CARDS 🎉
+# AMAZING ANIMATED CARD 🎉
 ### Author - HAMZA KHAN LODHI
 Click Here to visit : https://hamzalodhi2023.github.io/Card<br><br>
 ## Clone Repository ✌
